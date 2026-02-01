@@ -13,4 +13,6 @@ Credit: [pngquant](https://github.com/kornelski/pngquant), [platypus](https://gi
 - Easy to integrate with shell scripts, GUIs and server-side software.
 - Fast mode for real-time processing/large numbers of images.
 
+## Download Release ➤ [Compress Images](https://github.com/chris1111/Compress-Images/releases/tag/V1)
+
 <img src="Source/Screenshot.png" alt="Icons Project" style="width:75%;">
