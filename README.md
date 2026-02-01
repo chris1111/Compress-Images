@@ -1,6 +1,8 @@
 # Compress Images
 ### Compress Images is a free Open source macOS Applications to compress PNG images.
 
+<img src="Source/compress-macOS-Default-1024x1024@1x.png" alt="Icons Project" style="width:30%;">
+
 Credit: [pngquant](https://github.com/kornelski/pngquant), [platypus](https://github.com/sveinbjornt/Platypus)
 
 ### The conversion reduces file sizes significantly (often as much as 70%) and preserves full alpha transparency. Generated images are compatible with all web browsers and operating systems.
