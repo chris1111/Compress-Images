@@ -1,4 +1,5 @@
 # Compress Images
+[![License: MIT](https://github.com/chris1111/Compress-Images/blob/main/Source/MIT.svg)](https://github.com/chris1111/Compress-Images/blob/main/LICENSE)
 ### Compress Images is a free Open source macOS Applications to compress PNG images.
 
 <img src="Source/compress-macOS-Default-1024x1024@1x.png" alt="Icons Project" style="width:30%;">
