@@ -13,4 +13,4 @@ Credit: [pngquant](https://github.com/kornelski/pngquant), [platypus](https://gi
 - Easy to integrate with shell scripts, GUIs and server-side software.
 - Fast mode for real-time processing/large numbers of images.
 
-<img src="Source/Screenshot.png" alt="Icons Project" style="width:50%;">
+<img src="Source/Screenshot.png" alt="Icons Project" style="width:75%;">
