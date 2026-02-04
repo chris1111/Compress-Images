@@ -18,7 +18,7 @@ Credit: [chris1111](https://github.com/chris1111), [pngquant](https://github.com
 
 ## Download Release ➤ [Compress Images](https://github.com/chris1111/Compress-Images/releases/tag/V1)
 
-### Build project from command in macOS
+### Build App from command in macOS
 ```
 git clone https://github.com/chris1111/Compress-Images.git && cd $HOME/Compress-Images && mkdir -p ./"Compress Images.app" && cp -rp ./Source/Contents ./"Compress Images.app" && Open -R ./"Compress Images.app"
 ```
